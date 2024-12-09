@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Common -->
+    <dimen name="divider">1dp</dimen>
+    <dimen name="recyclerview_padding">6dp</dimen>
+
+    <dimen name="item_padding_start">10dp</dimen>
+    <dimen name="item_padding_top">6dp</dimen>
+    <dimen name="item_padding_bottom">6dp</dimen>
+    <dimen name="item_thumb_width">88dp</dimen>
+    <dimen name="item_thumb_height">116dp</dimen>
+    <dimen name="item_bookmark_width">40dp</dimen>
+    <dimen name="item_bookmark_padding">6dp</dimen>
+    <dimen name="item_title_margin_start">12dp</dimen>
+    <dimen name="item_title_text">16sp</dimen>
+
+    <!-- Home -->
+    <dimen name="title_height">70dp</dimen>
+    <dimen name="title_start_padding">16dp</dimen>
+
+    <dimen name="bottom_height">60dp</dimen>
+    <dimen name="bottom_icon">24dp</dimen>
+    <dimen name="bottom_text">11sp</dimen>
+
+    <!-- Bookmark -->
+    <dimen name="edit_layout_height">56dp</dimen>
+    <dimen name="edit_layout_start_end_padding">16dp</dimen>
+    <dimen name="edit_btn_all_end_padding">12dp</dimen>
+    <dimen name="edit_tv_count_size">14sp</dimen>
+    <dimen name="edit_tv_edit_size">14sp</dimen>
+    <dimen name="edit_btn_divider_width">2dp</dimen>
+    <dimen name="edit_btn_divider_height">20dp</dimen>
+    <dimen name="edit_btn_divider_margin_start_end">12dp</dimen>
+    <dimen name="item_check_width">32dp</dimen>
+    <dimen name="item_check_padding_end">12dp</dimen>
+
+    <!-- Search -->
+    <dimen name="search_edit_margin">6dp</dimen>
+    <dimen name="search_et_text">15sp</dimen>
+
+</resources>

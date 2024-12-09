@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ImageSearchApplication</string>
+
+    <string name="main">メイン</string>
+    <string name="bookmark">ブックマーク</string>
+
+    <!-- Main -->
+    <string name="network_error">エラーが発生しました</string>
+
+    <!-- Bookmark -->
+    <string name="edit_tv_select_count">%d 選択済み</string>
+    <string name="edit_tv_all_count">合計 %d 件</string>
+    <string name="edit_tv_edit">編集</string>
+    <string name="edit_tv_delete">削除</string>
+    <string name="edit_tv_cancel">キャンセル</string>
+
+    <!-- Search -->
+    <string name="search_et_hint">キーワードを入力してください</string>
+    <string name="search_result_empty">検索結果が見つかりません</string>
+    <string name="search_result_error">検索中にエラーが発生しました</string>
+</resources>

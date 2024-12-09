@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ImageSearchApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/main</item>
+    </style>
+
+    <style name="Theme.ImageSearchApplication" parent="Base.Theme.ImageSearchApplication" />
+</resources>

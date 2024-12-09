@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main">#ffffff</color>
+
+    <color name="bg">#222324</color>
+
+    <color name="bottom_bg">#2c2d2f</color>
+    <color name="bottom_text_active">#ffffff</color>
+    <color name="bottom_text_inactive">#888b8f</color>
+    <color name="divider">#353535</color>
+
+    <color name="thumb_bg">#0a0a0a</color>
+    <color name="item_title_text">#dddddd</color>
+    <!-- Bookmark -->
+    <color name="edit_tv_color">#dddddd</color>
+    <color name="edit_btn_divider_bg">#353535</color>
+
+    <!-- Search -->
+    <color name="search_et_text">#ffffff</color>
+    <color name="search_et_hint">#888b8f</color>
+</resources>

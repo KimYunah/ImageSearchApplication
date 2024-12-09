@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ImageSearchApplication</string>
+
+    <!-- Home -->
+    <string name="main">메인</string>
+    <string name="bookmark">북마크</string>
+
+    <!-- Main -->
+    <string name="network_error">오류가 발생 했습니다</string>
+
+    <!-- Bookmark -->
+    <string name="edit_tv_select_count">%d 선택</string>
+    <string name="edit_tv_all_count">전체 %d개</string>
+    <string name="edit_tv_edit">편집</string>
+    <string name="edit_tv_delete">삭제</string>
+    <string name="edit_tv_cancel">취소</string>
+
+    <!-- Search -->
+    <string name="search_et_hint">검색어를 입력하세요</string>
+    <string name="search_result_empty">검색 결과가 없습니다</string>
+    <string name="search_result_error">검색 중 오류가 발생 했습니다</string>
+</resources>
